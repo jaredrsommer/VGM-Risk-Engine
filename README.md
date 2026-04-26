@@ -124,5 +124,5 @@ Feature Engine  ──►  VGM Neural Net  ──►  Risk Firewall
 
 Looking for Freqtrade / crypto bot users to test the live risk scoring API.
 
-Contact: retski1@gmail.com
+Contact: kretski1@gmail.com
 GitHub: https://github.com/Kretski/VGM-Risk-Engine
